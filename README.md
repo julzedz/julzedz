@@ -44,9 +44,21 @@ I am a Student at Microverse Inc, a remote full-stack web development school. I 
 <img src="http://img.shields.io/badge/-Webpack-430098?style=flat&logo=webpack&logoColor=white">
 
 ----
+## My Github data...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=julzedz&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=julzedz&show_icons=true&hide_border=true)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julzedz&theme=buefy-dark)](https://git.io/streak-stats)
+
+
+
 
 ----
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/julzedz)
+
+  <table>
+  <h3>My GitHub Contribution Graph... <h3><hr>
+
+ <p align="center">
+ <img width="830" src="https://activity-graph.herokuapp.com/graph?username=julzedz&theme=react-dark&hide_border=true&area=true" />
+ </p>
+</table><hr>
