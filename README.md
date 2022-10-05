@@ -2,9 +2,15 @@
 
 ![Profile views](https://gpvc.arturio.dev/julzedz)  <img src="https://img.shields.io/github/followers/julzedz?label=Follow" style=" float:left, margin-right:10px" />
 
+----
+
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+----
+
 :heart: Programming | :black_heart: Crypto | ⚽ Arsenal FC
+
+----
 
 I am a Student at Microverse Inc, a remote full-stack web development school. I love pair-programming and remote work.
 
@@ -39,6 +45,10 @@ I am a Student at Microverse Inc, a remote full-stack web development school. I 
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Webpack-430098?style=flat&logo=webpack&logoColor=white">
 
+----
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=julzedz&show_icons=true&hide_border=true)
+
+----
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/julzedz)
