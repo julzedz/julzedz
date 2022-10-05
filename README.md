@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hi There!](https://user-images.githubusercontent.com/73921498/193955070-80c7648b-8d3d-4c36-9bb4-e1bab0b13783.png)
+
 
 <!--
 **julzedz/julzedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
