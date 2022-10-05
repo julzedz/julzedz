@@ -1,4 +1,5 @@
-![Hi There!](https://user-images.githubusercontent.com/73921498/193955861-d71a1ac2-6bcb-4b82-8290-5e945cd21771.png)
+![Hi There!](https://user-images.githubusercontent.com/73921498/193970849-a2b048b7-e4db-4549-bc81-ab7147e06693.png)
+
 
 ![Profile views](https://gpvc.arturio.dev/julzedz)  <img src="https://img.shields.io/github/followers/julzedz?label=Follow" style=" float:left, margin-right:10px" />
 
