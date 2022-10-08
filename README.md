@@ -4,7 +4,6 @@
 ![Profile views](https://gpvc.arturio.dev/julzedz)  <img src="https://img.shields.io/github/followers/julzedz?label=Follow" style=" float:left, margin-right:10px" />
 
 ----
-
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 :heart: Programming | :black_heart: Crypto | ⚽ Arsenal FC
