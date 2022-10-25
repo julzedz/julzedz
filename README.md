@@ -12,7 +12,7 @@
 
 I am a Student at Microverse Inc, a remote full-stack web development school. I love pair-programming and remote work.
 
-- 🔭 I’m currently working on building different projects using JavaScript, SaSS, Webpack, and GitHub.
+- 🔭 I’m currently working on building different projects using JavaScript, React, Bootstrap, SaSS, Webpack, and GitHub.
 - 🌱 I’m currently learning Full-Stack Web Development | Networking | Pair-programming | Remote Work.
 - 👯 I’m looking for Web Development Job Opportunities <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me:
