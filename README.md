@@ -12,7 +12,7 @@
 
 I love pair-programming and remote work! 
 
-- 🔭 I’m currently building different projects using JavaScript, React, PostgreSQL, Bootstrap, Ruby, Webpack, and GitHub.
+- 🔭 I’m currently building different projects using TypeScript, React, Next, PostgreSQL, Bootstrap, Rails, Webpack, and GitHub.
 - 🌱 I’m currently learning Ruby-on-Rails | Networking | Pair-programming.
 - 👯 I’m open to Web Development Opportunities. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me:
@@ -42,6 +42,7 @@ I love pair-programming and remote work!
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Webpack-430098?style=flat&logo=webpack&logoColor=white">
+<img src="http://img.shields.io/badge/-Next.js-430098?style=flat&logo=webpack&logoColor=white">
 
 ----
 ## My Github data...
