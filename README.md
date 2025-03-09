@@ -5,9 +5,9 @@
 
 # I am Jules Edozie
 
-I am a full-stack developer who loves pair programming and remote work! I am enthusiastic about embarking on new, exciting projects and I thrive on the challenges they offer. I am keen to work with passionate professionals and apply my expertise to develop innovative software solutions.
-- 🔭 I’m currently building different projects using TypeScript, JavaScript, React, Next, PostgreSQL, Bootstrap, Ruby-On-Rails, Webpack, and GitHub
-- 🌱 I’m currently learning Next.JS | TypeScript
+I am a full-stack developer who loves pair programming and remote work! I am enthusiastic about embarking on new, exciting projects. I am keen to work with passionate professionals and apply my expertise to develop innovative software solutions.
+- 🔭 I’m currently building different projects using TypeScript, JavaScript, React, Next, PostgreSQL, Bootstrap, Ruby-On-Rails.
+- 🌱 I’m currently learning Next.JS | TypeScript.
 - 👯 I’m open to Web Development Opportunities. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
